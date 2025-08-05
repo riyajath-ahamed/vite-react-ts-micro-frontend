@@ -1,0 +1,12 @@
+[submodule "host"]
+	path = host
+	url = https://github.com/riyajath-ahamed/microfe-host.git
+[submodule "submodules/trend"]
+	path = submodules/trend
+	url = https://github.com/riyajath-ahamed/microfe-trend.git
+[submodule "submodules/sidebar"]
+	path = submodules/sidebar
+	url = https://github.com/riyajath-ahamed/microfe-sidebar.git
+[submodule "submodules/dashboard"]
+	path = submodules/dashboard
+	url = https://github.com/riyajath-ahamed/microfe-dashboard.git
