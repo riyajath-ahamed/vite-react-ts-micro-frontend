@@ -4,7 +4,8 @@
       "path": "."
     },
     {
-      "path": "microfe-host"
+      "path": "microfe-host",
+      "name": "Host"
     },
     {
       "path": "microfe-dashboard",
