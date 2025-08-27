@@ -1,0 +1,22 @@
+{
+    "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "microfe-host"
+    },
+    {
+      "path": "microfe-dashboard",
+      "name": "Dashboard"
+    },
+    {
+      "path": "microfe-sidebar",
+      "name": "Sidebar"
+    },
+    {
+      "path": "microfe-trend",
+      "name": "Trend"
+    }
+  ],
+}
